@@ -1,0 +1,35 @@
+.contact th{
+    width: 150px;
+    text-align: right;
+    padding-right: 10px;
+    height: 7rem;
+}
+
+.contact td{
+    height: 7rem;
+}
+
+input[type="text"]{
+    width: 480px;
+}
+
+textarea{
+    width: 480px;
+}
+
+.send p{
+    text-align: center;
+}
+
+.button{
+    padding: 10px;
+    background-color: #008B8B;
+    color: #fff;
+    box-shadow: none;
+    border: 0;
+    font-size: 3rem;
+}
+
+.button:hover{
+    opacity: 0.6;
+}
